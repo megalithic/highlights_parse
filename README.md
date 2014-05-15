@@ -8,3 +8,5 @@ To use, simply call
 ```sh
 ruby parse_highlights.rb input.html > output.txt
 ```
+
+Sample input.html included.
